@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
-  "file": "DBHELP.lua",
-  "size": 942161,
-  "sum": 1421600781,
-  "sha256": "d80630c5f8b5c0bed7fed0afd813b29ba397c621007a37650b82a0cead459430",
-  "notes": "DBHELP Pro Helper — автообновление через GitHub"
+  "version": "1.4.3",
+  "file": "RHelper.lua",
+  "size": 1034577,
+  "sum": 2425009016,
+  "sha256": "1978a0acaf17aae002fd3604170efef311f963b29713245bfa4968b646b8b17a",
+  "notes": "RHelper Pro Helper — автообновление через GitHub"
 }
