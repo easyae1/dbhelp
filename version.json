@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "file": "DBHELP.lua",
-  "size": 934435,
-  "sum": 1424613600,
-  "sha256": "0fc17d9adb1cce4d9f61dbf41bd402174046a625ff4d9070b392b0ad91aa7fa4",
+  "size": 942111,
+  "sum": 1471533805,
+  "sha256": "c505dfb8de5ec91e6ef2c10b6b280761fdbbec13f4b185930926aae7938263ad",
   "notes": "DBHELP Pro Helper — автообновление через GitHub"
 }
