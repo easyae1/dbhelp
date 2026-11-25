@@ -1,8 +1,8 @@
 {
-  "version": "1.4.7",
-  "file": "RHelper-1.4.7.lua",
+  "version": "1.4.8",
+  "file": "RHelper-1.4.8.lua",
   "size": 3962214,
-  "sum": 3989478324,
-  "sha256": "29ed5680667275375e991dbe3fcfc9972a44a0a306283eb586c495b18b866ff3",
+  "sum": 3939803446,
+  "sha256": "e3df6407e3e72c75be1889e8a0308602c989f63f30445396e50423276ec4dbe7",
   "notes": "RHelper Pro Helper — автообновление через GitHub"
 }
