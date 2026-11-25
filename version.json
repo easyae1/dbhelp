@@ -1,8 +1,8 @@
 {
   "version": "1.4.5",
   "file": "RHelper-1.4.5.lua",
-  "size": 1044273,
-  "sum": 2613386156,
-  "sha256": "c254c486ac7961faf4655acdd9eb70c724d4b4a02ff1d48a5854e1bd0f4b9c00",
-  "notes": "RHelper Pro Helper — автообновление через GitHub"
+  "size": 3957294,
+  "sum": 2603014055,
+  "sha256": "102e43ea4ef5f444ac5f7bd48756f1b2569e444787784ebe044a6c274a71d692",
+  "notes": "RHelper 1.4.5: Каталог цен RMarket по 7 серверам (F3), Лавки ЦР (Ctrl+L), точный PayDay/AFK-фарм, сканер инвентаря и Telegram-бот (@RRP_Helper_bot)"
 }
